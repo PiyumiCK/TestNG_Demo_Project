@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-10-29T01:48:55 IST" name="Default suite" finished-at="2026-10-29T01:49:06 IST" duration-ms="11163">
+    <groups>
+    </groups>
+    <test started-at="2026-10-29T01:48:55 IST" name="Default test" finished-at="2026-10-29T01:49:06 IST" duration-ms="11163">
+      <class name="ineedtofindsomeonefor.SignIn.SignInPage">
+        <test-method signature="signInwithVaildCredentials()[pri:0, instance:ineedtofindsomeonefor.SignIn.SignInPage@799f10e1]" started-at="2026-10-29T01:48:55 IST" name="signInwithVaildCredentials" finished-at="2026-10-29T01:49:06 IST" duration-ms="11025" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInwithVaildCredentials -->
+      </class> <!-- ineedtofindsomeonefor.SignIn.SignInPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
